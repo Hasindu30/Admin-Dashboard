@@ -67,7 +67,7 @@ const Dashboard = () => {
       <Box mt={5}>
         <Paper elevation={3} sx={{ height: 300, display: "flex", alignItems: "center", justifyContent: "center" }}>
           <Typography variant="subtitle1" color="textSecondary">
-            Chart/Graph Section (e.g. BarChart or LineChart)
+           
           </Typography>
         </Paper>
       </Box>
